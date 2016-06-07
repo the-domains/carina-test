@@ -1,0 +1,28 @@
+name: carina-test
+favicon: null
+layout_spectrum: 0.932941934093833
+typography_spectrum: 0.07466648169793189
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3991041425615549
+  lightness: 0.6786506248172373
+  saturation: 0.167538417968899
+  rhythmicContrast: 0.6849123612046242
+purpose: []
