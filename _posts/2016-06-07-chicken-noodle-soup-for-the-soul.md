@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Chicken (noodle) soup for the soul
-datePublished: '2016-06-07T13:35:04.608Z'
-dateModified: '2016-06-07T13:33:43.484Z'
+datePublished: '2016-06-07T13:37:09.661Z'
+dateModified: '2016-06-07T13:37:09.385Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-chicken-noodle-soup-for-the-soul.md
