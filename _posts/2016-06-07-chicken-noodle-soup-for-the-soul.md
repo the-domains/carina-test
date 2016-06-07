@@ -4,9 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Chicken (noodle) soup for the soul
-datePublished: '2016-06-07T19:11:37.143Z'
-dateModified: '2016-06-07T19:11:36.463Z'
+description: >-
+  Listlessly drifting through a brief spell of apathy, I raided my kitchen to
+  find something for dinner. My freezer was in need of emptying (there was no
+  room for ice cream. Or ice for that matter, and how can one craft a cocktail
+  without ice?), so I snagged a jar of chicken stock and a bag of cooked chicken
+  pieces, both the result of a previous freezer-cleaning episode when I
+  transformed my reserved chicken carcasses.
+datePublished: '2016-06-07T20:17:03.711Z'
+dateModified: '2016-06-07T20:16:33.094Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-chicken-noodle-soup-for-the-soul.md
@@ -17,7 +23,6 @@ url: chicken-noodle-soup-for-the-soul/index.html
 _type: Article
 
 ---
-Chicken (noodle) soup for the soul
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c77fc711-b2cb-4a2b-bcae-4e43df2f4b95.jpg)
 
 Listlessly drifting through a brief spell of apathy, I raided my kitchen to find something for dinner. My freezer was in need of emptying (there was no room for ice cream. Or ice for that matter, and how can one craft a cocktail without ice?), so I snagged a jar of chicken stock and a bag of cooked chicken pieces, both the result of a previous freezer-cleaning episode when I transformed my reserved chicken carcasses.
